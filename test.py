@@ -4,9 +4,9 @@ import pygetwindow as gw
 from PIL import ImageGrab
 
 # SETTINGS
-IMAGE_PATH = "images/q_icon_circle.png"  # Change to your image
-WINDOW_NAME = "7DS"                      # Change to your game/window name
-CONFIDENCE_THRESHOLD = 0.29            # Minimum confidence to display match
+IMAGE_PATH = "images/boss_start.png"  # Change to your image
+WINDOW_NAME = "memu"                      # Change to your game/window name
+CONFIDENCE_THRESHOLD = 0.23         # Minimum confidence to display match
 
 def get_window_bbox(window_name):
     """Get the bounding box of the window to capture."""

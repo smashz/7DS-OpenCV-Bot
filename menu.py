@@ -5,9 +5,11 @@ import os
 
 # Script list
 scripts = {
-    "1": "main_ch_7up.py",
-    "2": "nest.py",
-    "3": "test.py",
+    "1": "main_story_ch_7_up.py",
+    "2": "creature_nest.py",
+    "3": "boss_battle.py",
+    "4": "test.py",
+    
 }
 
 # Console colors

@@ -18,7 +18,7 @@ pip install opencv-python numpy pyautogui pygetwindow keyboard
 # Run
 
 ```sh
-node menu.py
+python menu.py
 ```
 
 
